@@ -1,0 +1,14 @@
+{
+    "name": "networking-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/NgaiJustin/networking-demo.git",
+    "author": "Justin Ngai <jn537@cornell.edu>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "scripts": {
+        "start": "node index"
+    }
+}
